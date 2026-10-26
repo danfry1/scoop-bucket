@@ -1,12 +1,12 @@
 {
-    "version": "1.13.0",
+    "version": "1.14.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/danfry1/waxon/releases/download/v1.13.0/waxon_1.13.0_windows_amd64.zip",
+            "url": "https://github.com/danfry1/waxon/releases/download/v1.14.0/waxon_1.14.0_windows_amd64.zip",
             "bin": [
                 "waxon.exe"
             ],
-            "hash": "86cbbf4b113e8aec9a4e103171c1226ddca908e3bafa6d927e2f76df763aa725"
+            "hash": "3eea2f488a9e78c6281e90eeb5f526f1ac884ef9f0af7fd4ea584d1bc36f4706"
         }
     },
     "homepage": "https://github.com/danfry1/waxon",
